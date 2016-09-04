@@ -1,4 +1,6 @@
 #README
+using a philips videopac g7000 keypad on a cheap arduinio uno with CH340 controller as a usb keyboard
+
 use Arduino 1.05r2 or the sketch won't compile
 build usb schematic like on 
 http://www.practicalarduino.com/projects/virtual-usb-keyboard
